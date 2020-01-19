@@ -100,6 +100,7 @@ async function main(){
   })
 
   await fs.outputJson('flat.json', lines, {spaces: '  '})
+  await fs.writeFile('index.js', `module.exports = ${JSON.stringify(lines)}`)
 
   console.log(lines);
 }
