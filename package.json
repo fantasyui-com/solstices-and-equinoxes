@@ -1,0 +1,24 @@
+{
+  "name": "solstices-and-equinoxes",
+  "version": "1.0.1",
+  "description": "Solstices and Equinoxes 2001 to 2100 in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/solstices-and-equinoxes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/solstices-and-equinoxes/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/solstices-and-equinoxes#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "sprintf-js": "^1.1.2"
+  }
+}
