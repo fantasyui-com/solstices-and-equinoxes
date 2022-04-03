@@ -1,6 +1,6 @@
 {
   "name": "solstices-and-equinoxes",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Solstices and Equinoxes 2001 to 2100 in JSON format",
   "main": "index.js",
   "scripts": {
